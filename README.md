@@ -1,16 +1,14 @@
-## Hi there 👋
+## Halo semua! 
 
-<!--
-**rhma23/rhma23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Rahmawati Agustin**.<br>
 
-Here are some ideas to get you started:
+Saya seorang **Mahasiswa** di Universitas Subang yang sedang mengikuti program Kampus Merdeka yaitu Studi Inpedent di Yayasan [Dicoding](https://www.dicoding.com/).<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning Path yang saya ambil yaitu Mobile Development - Bangkit Academy 2024 Google, GoTo, Tokopedia.<br>
+
+Berikut sertifikasi dari Dicoding Indonesia:<br>
+1. [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/2VX3RD4JQZYQ).<br>
+2. [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/1RXYL82O3PVM).<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rahmawati-agustin-b877a525b/)ku yaa..  
+#### Terimakasih!
