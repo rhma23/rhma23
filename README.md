@@ -9,6 +9,9 @@ Learning Path yang saya ambil yaitu Mobile Development - Bangkit Academy 2024 Go
 Berikut sertifikasi dari Dicoding Indonesia:
 1. [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/2VX3RD4JQZYQ).<br>
 2. [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/1RXYL82O3PVM).<br>
+3. [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/JMZV3RK2JPN9).<br>
+4. [Memulai Pemrograman dengan Kotlin](https://www.dicoding.com/certificates/JLX17NYVNX72).<br>
+5. [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/certificates/EYX4J9R65ZDL).<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rahmawati-agustin-b877a525b/)-ku yaa..  
 
