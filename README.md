@@ -12,6 +12,10 @@ Berikut sertifikasi dari Dicoding Indonesia:
 3. [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/JMZV3RK2JPN9).<br>
 4. [Memulai Pemrograman dengan Kotlin](https://www.dicoding.com/certificates/JLX17NYVNX72).<br>
 5. [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/certificates/EYX4J9R65ZDL).<br>
+6. [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/certificates/1OP84WQY2ZQK).<br>
+7. [Belajar Dasar AI](https://www.dicoding.com/certificates/4EXG77Y5DPRL).<br>
+8. [Belajar Penerapan Machine Learning untuk Android](https://www.dicoding.com/certificates/N9ZOYNY06PG5).<br>
+9. [Belajar Pengembangan Aplikasi Android Intermediate](https://www.dicoding.com/certificates/81P24E4O8ZOY).<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rahmawati-agustin-b877a525b/)-ku yaa..  
 
