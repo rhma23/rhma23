@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Rahmawati Agustin**.<br>
 
-Saya seorang **Mahasiswa** di Universitas Subang yang sedang mengikuti program Kampus Merdeka yaitu Studi Inpedent di Yayasan [Dicoding](https://www.dicoding.com/) Indonesia.<br>
+Saya seorang **Mahasiswa** aktif di Universitas Subang yang sudah lulus mengikuti program Kampus Merdeka yaitu Studi Inpedent di Yayasan [Dicoding](https://www.dicoding.com/) Indonesia.<br>
 
 Learning Path yang saya ambil yaitu Mobile Development - Bangkit Academy 2024 Google, GoTo, Tokopedia.<br>
 
