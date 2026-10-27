@@ -1,10 +1,18 @@
-## Halo semua! 
+## Halo, Saya Rahmawati Agustin 👋
 
-Perkenalkan nama saya **Rahmawati Agustin**.<br>
+🎓 **Lulusan Sistem Informasi dari Universitas Subang**
+💻 Memiliki minat pada Pengembangan Web, Rekayasa Perangkat Lunak, dan Sistem Informasi
+🚀 Bangkit Academy 2024 Batch 2 — Peserta Jalur Pembelajaran Mobile Development.<br>
 
-Saya seorang **Mahasiswa** aktif di Universitas Subang yang sudah lulus mengikuti program Kampus Merdeka yaitu Studi Inpedent di Yayasan [Dicoding](https://www.dicoding.com/) Indonesia.<br>
+**Tentang Saya**.<br>
 
-Learning Path yang saya ambil yaitu Mobile Development - Bangkit Academy 2024 Google, GoTo, Tokopedia.<br>
+Saya merupakan lulusan Sistem Informasi dari Universitas Subang yang memiliki minat dalam pengembangan perangkat lunak dan solusi berbasis teknologi..<br>
+
+Saya memiliki pengalaman dalam mengerjakan sistem informasi berbasis web dan senang membangun aplikasi yang dapat membantu meningkatkan proses bisnis serta pengelolaan informasi..<br>
+
+Saya mengikuti Bangkit Academy 2024 Batch 2 pada jalur pembelajaran Mobile Development, tempat saya mengembangkan pengetahuan mengenai pengembangan aplikasi mobile..<br>
+
+Saya terus belajar, meningkatkan keterampilan teknis, dan mencari peluang untuk berkembang sebagai seorang developer..<br>
 
 Berikut sertifikasi dari Dicoding Indonesia:
 1. [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/2VX3RD4JQZYQ).<br>
