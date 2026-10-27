@@ -1,20 +1,20 @@
-## Halo, Saya Rahmawati Agustin 👋
+## Halo, Saya Rahmawati Agustin👋
 
-🎓 **Lulusan Sistem Informasi dari Universitas Subang**
-💻 Memiliki minat pada Pengembangan Web, Rekayasa Perangkat Lunak, dan Sistem Informasi
-🚀 Bangkit Academy 2024 Batch 2 — Peserta Jalur Pembelajaran Mobile Development.<br>
+🎓 **Lulusan Sistem Informasi dari Universitas Subang**<br>
+💻 Memiliki minat pada Pengembangan Web, Rekayasa Perangkat Lunak, dan Sistem Informasi<br>
+🚀 Bangkit Academy 2024 Batch 2 — Peserta Jalur Pembelajaran Mobile Development<br>
 
-**Tentang Saya**.<br>
+**Tentang Saya**<br>
 
-Saya merupakan lulusan Sistem Informasi dari Universitas Subang yang memiliki minat dalam pengembangan perangkat lunak dan solusi berbasis teknologi..<br>
+Saya merupakan lulusan Sistem Informasi dari Universitas Subang yang memiliki minat dalam pengembangan perangkat lunak dan solusi berbasis teknologi.<br>
 
-Saya memiliki pengalaman dalam mengerjakan sistem informasi berbasis web dan senang membangun aplikasi yang dapat membantu meningkatkan proses bisnis serta pengelolaan informasi..<br>
+Saya memiliki pengalaman dalam mengerjakan sistem informasi berbasis web dan senang membangun aplikasi yang dapat membantu meningkatkan proses bisnis serta pengelolaan informasi.<br>
 
-Saya mengikuti Bangkit Academy 2024 Batch 2 pada jalur pembelajaran Mobile Development, tempat saya mengembangkan pengetahuan mengenai pengembangan aplikasi mobile..<br>
+Saya mengikuti Bangkit Academy 2024 Batch 2 pada jalur pembelajaran Mobile Development, tempat saya mengembangkan pengetahuan mengenai pengembangan aplikasi mobile.<br>
 
-Saya terus belajar, meningkatkan keterampilan teknis, dan mencari peluang untuk berkembang sebagai seorang developer..<br>
+Saya terus belajar, meningkatkan keterampilan teknis, dan mencari peluang untuk berkembang sebagai seorang developer.<br>
 
-Berikut sertifikasi dari Dicoding Indonesia:
+**Sertifikasi dan Pembelajaran**<br>
 1. [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/2VX3RD4JQZYQ).<br>
 2. [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/1RXYL82O3PVM).<br>
 3. [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/JMZV3RK2JPN9).<br>
